@@ -26,6 +26,14 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm install
 ```
+Put your last.fm API key in the `.env.local` file.
+
+
+### Docker Production
+```sh
+docker compose up -d
+```
+
 
 ### Compile and Hot-Reload for Development
 
